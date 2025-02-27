@@ -1,11 +1,10 @@
 'use client'
 
-import BootstrapIcon from 'bootstrap-icons/icons/bootstrap.svg';
+import {Bootstrap} from "react-bootstrap-icons";
 
 import Link from "next/link";
 import {clsx} from "clsx";
 import {usePathname} from "next/navigation";
-import Image from "next/image";
 
 const links = [
   {name: "Home", href: "/"},
@@ -24,7 +23,7 @@ export function Header() {
       <header className="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
 
         <div className={"d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none"}>
-          <Image src={BootstrapIcon} width={40} height={32} alt={"Bootstrap Icon"}/>
+          <Bootstrap width={40} height={32}/>
           <span className="fs-4">Simple header</span>
         </div>
 

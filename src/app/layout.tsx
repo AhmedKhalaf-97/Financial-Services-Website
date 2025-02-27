@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
-import {Header} from "@/app/ui/header";
 
-import "./global.scss";
+import "bootstrap/scss/bootstrap.scss";
 
 import React from "react";
 
@@ -16,15 +15,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" data-bs-theme={"light"}>
-      <body>
-        <div className={"container"}>
-          <Header/>
-          <main className={"d-flex flex-nowrap"}>
-            {children}
-          </main>
-        </div>
-      </body>
+    <html lang="en">
+      {children}
     </html>
   );
 }

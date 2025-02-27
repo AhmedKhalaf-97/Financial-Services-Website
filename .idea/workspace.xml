@@ -34,6 +34,9 @@
     &quot;assignee&quot;: &quot;AidSucks&quot;
   }
 }</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="e19d658a-f68b-4c69-b2a8-f2b1829b28c8" />
+  </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/AhmedKhalaf-97/Financial-Services-Website.git&quot;,
@@ -57,7 +60,6 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "javascript.nodejs.core.library.configured.version": "22.12.0",
     "javascript.nodejs.core.library.typings.version": "22.12.0",
@@ -69,7 +71,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "wsl://Ubuntu@/home/aidan-anderson/.local/share/fnm/aliases/default/bin/node",
     "nodejs_package_manager_path": "\\home\\aidan-anderson\\.local\\share\\fnm\\aliases\\default\\bin\\pnpm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "vcs.Git",
     "ts.external.directory.path": "\\\\wsl.localhost\\Ubuntu\\home\\aidan-anderson\\Webstorm Projects\\csc131-website\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
