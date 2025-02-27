@@ -4,211 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f46db6cc-5ee4-4dbd-8f3f-e7f85281e2a3" name="Changes" comment="Created basic admin dashboard" />
+    <list default="true" id="9d9e4372-545d-4188-80c3-879446e1d255" name="Changes" comment="Created basic admin dashboard" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="SCSS File" />
-        <option value="TypeScript File" />
-        <option value="tsconfig.json" />
-        <option value="TypeScript JSX File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="v0.1.0" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;AidSucks&quot;
-  }
-}</component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="e19d658a-f68b-4c69-b2a8-f2b1829b28c8" />
-  </component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/AhmedKhalaf-97/Financial-Services-Website.git&quot;,
-    &quot;accountId&quot;: &quot;e19d658a-f68b-4c69-b2a8-f2b1829b28c8&quot;
-  }
-}</component>
-  <component name="PackageJsonUpdateNotifier">
-    <dismissed value="$PROJECT_DIR$/package.json" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
-}</component>
-  <component name="ProjectId" id="2t0FCRGgGkRbcs47LRx4s58O0WR" />
-  <component name="ProjectViewState">
-    <option name="compactDirectories" value="true" />
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "javascript.nodejs.core.library.configured.version": "22.12.0",
-    "javascript.nodejs.core.library.typings.version": "22.12.0",
-    "last_opened_file_path": "//wsl.localhost/Ubuntu/home/aidan-anderson/Webstorm Projects/csc131-website/src/app/(admin)/dashboard/posts",
-    "list.type.of.created.stylesheet": "SCSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "wsl://Ubuntu@/home/aidan-anderson/.local/share/fnm/aliases/default/bin/node",
-    "nodejs_package_manager_path": "\\home\\aidan-anderson\\.local\\share\\fnm\\aliases\\default\\bin\\pnpm",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "ts.external.directory.path": "\\\\wsl.localhost\\Ubuntu\\home\\aidan-anderson\\Webstorm Projects\\csc131-website\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="\\wsl.localhost\Ubuntu\home\aidan-anderson\Webstorm Projects\csc131-website\src\app\(admin)\dashboard\posts" />
-      <recent name="\\wsl.localhost\Ubuntu\home\aidan-anderson\Webstorm Projects\csc131-website\src\app\(admin)\dashboard\customers" />
-      <recent name="\\wsl.localhost\Ubuntu\home\aidan-anderson\Webstorm Projects\csc131-website\src\app\(admin)\dashboard\appointments" />
-      <recent name="\\wsl.localhost\Ubuntu\home\aidan-anderson\Webstorm Projects\csc131-website\public" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="\\wsl.localhost\Ubuntu\home\aidan-anderson\Webstorm Projects\csc131-website\src\app\(admin)" />
-      <recent name="\\wsl.localhost\Ubuntu\home\aidan-anderson\Webstorm Projects\csc131-website\src\app\(home)" />
-    </key>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-WS-243.24978.60" />
-      </set>
-    </attachedChunks>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="f46db6cc-5ee4-4dbd-8f3f-e7f85281e2a3" name="Changes" comment="" />
-      <created>1739480957612</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1739480957612</updated>
-      <workItem from="1739480959364" duration="133000" />
-      <workItem from="1739485806919" duration="4721000" />
-      <workItem from="1739492318240" duration="474000" />
-      <workItem from="1739500004042" duration="2964000" />
-      <workItem from="1739734347381" duration="312000" />
-      <workItem from="1739767963266" duration="908000" />
-      <workItem from="1739832943330" duration="23000" />
-      <workItem from="1739835524855" duration="2156000" />
-      <workItem from="1739838256326" duration="359000" />
-      <workItem from="1739845680838" duration="7603000" />
-      <workItem from="1739904756214" duration="330000" />
-      <workItem from="1739907543354" duration="846000" />
-      <workItem from="1739909121055" duration="1558000" />
-      <workItem from="1739911627337" duration="1706000" />
-      <workItem from="1739924542480" duration="316000" />
-      <workItem from="1739937514485" duration="3000" />
-      <workItem from="1740006519892" duration="3221000" />
-      <workItem from="1740021939004" duration="5769000" />
-      <workItem from="1740078571028" duration="213000" />
-      <workItem from="1740082604733" duration="1332000" />
-      <workItem from="1740084640670" duration="62000" />
-      <workItem from="1740084849386" duration="1252000" />
-      <workItem from="1740092224900" duration="463000" />
-      <workItem from="1740107702941" duration="2783000" />
-      <workItem from="1740248749035" duration="72000" />
-      <workItem from="1740249108080" duration="10000" />
-      <workItem from="1740438395070" duration="444000" />
-      <workItem from="1740438852053" duration="3664000" />
-      <workItem from="1740443228511" duration="301000" />
-      <workItem from="1740507548996" duration="2387000" />
-      <workItem from="1740510791799" duration="61000" />
-      <workItem from="1740514054221" duration="4059000" />
-      <workItem from="1740544035558" duration="8000" />
-      <workItem from="1740545421433" duration="283000" />
-      <workItem from="1740546010933" duration="88000" />
-      <workItem from="1740549208565" duration="11000" />
-      <workItem from="1740680370002" duration="5055000" />
-      <workItem from="1740686739502" duration="849000" />
-    </task>
-    <task id="LOCAL-00001" summary="Create website base&#10;Added basic router and styling">
-      <option name="closed" value="true" />
-      <created>1740085313322</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1740085313322</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Created basic admin dashboard">
-      <option name="closed" value="true" />
-      <created>1740685385855</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1740685385855</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list>
-              <RecentGroup>
-                <option name="FILTER_VALUES">
-                  <option value="v0.1.0" />
-                </option>
-              </RecentGroup>
-            </list>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="CUSTOM_BOOLEAN_PROPERTIES">
-                <map>
-                  <entry key="Show.Git.Branches" value="true" />
-                </map>
-              </option>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="v0.1.0-admin" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Create website base&#10;Added basic router and styling" />
     <MESSAGE value="Created basic admin dashboard" />
     <option name="LAST_COMMIT_MESSAGE" value="Created basic admin dashboard" />
   </component>
